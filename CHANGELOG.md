@@ -1,11 +1,13 @@
 # CHANGELOG
 
-## 4/28/2024
+## Date
+4/28/2024
 ### Contributors
 Audrey Rojas
 
 ### Added
 Added schematic file of first PCB design
+Added schematic & layout file
 
 ### Changed
 Added PCB assignment to pcb_assignment file
